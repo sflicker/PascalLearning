@@ -1,0 +1,6 @@
+Program MathTest;
+
+
+begin
+
+end.
